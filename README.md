@@ -1,4 +1,4 @@
-# NBA-players-relation-visualization
+# NBA players relation visualization
 
 Here is a try to make visualization of NBA players (player1 played a year with player 2 during XXXX season in team XXX). From a Kaggle dataset (https://www.kaggle.com/justinas/nba-players-data) the notebook in this repository allows to make a CSV file in which each row is the indication that two players played during a year in the same team. The format can be directly used to get imported in Gephi.
 
