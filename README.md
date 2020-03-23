@@ -6,15 +6,15 @@ This project was the opportunity to discover the Gephi software, but we will see
 
 Here is what we got :
 
-![first try](first_try.png)
+![first try](picture/first_try.png)
 
-![second try](second_try.png)
+![second try](picture/second_try.png)
 
 The notebook provides different solutions to discard some of the data, but this doesn't give significant improvement.
 
 We can see that this graph shows the proximity between players who played a lot together (Duncan-Parker-Ginobili or Garnett-Pierce-Allen-Rondo) :
 
-![Spurs and Celtics core team](V1_spurs_celtics.png)
+![Spurs and Celtics core team](picture/V1_spurs_celtics.png)
 
 Gephi allows us to find the shortest link from a player to another, and this part could prably be developed. Also, I plan to represent this graph in javascript using : http://sigmajs.org/
 
